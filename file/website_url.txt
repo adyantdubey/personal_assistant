@@ -1,0 +1,25 @@
+google,https://www.google.com
+youtube,https://www.youtube.com
+facebook,https://www.facebook.com
+twitter,https://www.twitter.com
+instagram,https://www.instagram.com
+linkedin,https://www.linkedin.com
+reddit,https://www.reddit.com
+amazon,https://www.amazon.com
+ebay,https://www.ebay.com
+netflix,https://www.netflix.com
+spotify,https://www.spotify.com
+github,https://www.github.com
+stackoverflow,https://stackoverflow.com
+medium,https://medium.com
+wikipedia,https://www.wikipedia.org
+bbc,https://www.bbc.com
+nytimes,https://www.nytimes.com
+cnn,https://www.cnn.com
+apple,https://www.apple.com
+microsoft,https://www.microsoft.com
+yahoo,https://www.yahoo.com
+nasa,https://www.nasa.gov
+adobe,https://www.adobe.com
+wordpress,https://www.wordpress.com
+chat gpt,https://chat.openai.com/
